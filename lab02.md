@@ -1,4 +1,4 @@
-  #     如何用construct2制作简单的小游戏
+# 如何用construct2制作简单的小游戏
 
 # 1.下载并安装construct2
 
